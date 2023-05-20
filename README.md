@@ -81,12 +81,12 @@ Also designing my own programming language, Rang.
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ## My other websites
-![Naver](https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF)
+![Naver](https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF&theme=radical)
 https://blog.naver.com/rollingress
 
 ### Statistics
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=karu-rress)\
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karu-rress)\
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karu-rress&count_private=true&show_icons=true)\
 ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=karu-rress)\
 
 <!--
