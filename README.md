@@ -7,7 +7,7 @@ Welcome back, this is Karu from Rolling Ress.
 
 - Goyang Global High School 10th alumnus (2020/03~2023/02)
 - Dept. of Industrial Security at Chung-Ang University (since 2023/03)  
-- Google Developer Student Clubs CAU 3rd Core Member
+- Google Developer Student Clubs CAU 23-24 Core Member
 - Researcher in ISANG, an infosec club at CAU IS.
 - 37th member in COMP, a Web-app developing club.
 - Intern researcher at Wireline Communication Lab in Woorinet (2023 07~08)
