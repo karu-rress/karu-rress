@@ -21,7 +21,8 @@ A student who likes development & hacking
 📱 Nothing Phone (1) (2022)\
 📱 Onyx Poke 2 (E-Book Reader)\
 📱 Galaxy Tab S7 FE (2021)\
-⌚ Mi Band 5 (2020)
+⌚ Mi Band 8 (2023)\
+🎧 Nothing Ear (2) (2022)\
 
 ## What can I do
 
