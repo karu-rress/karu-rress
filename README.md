@@ -1,10 +1,11 @@
-### Welcome to Rolling Ress
+# Welcome to Rolling Ress
 
 Welcome back, this is Karu from Rolling Ress.
 
 
 ## I'm...
 
+A student who likes development & hacking:
 - Goyang Global High School 10th alumnus (2020/03~2023/02)
 - Dept. of Industrial Security at Chung-Ang University (since 2023/03)  
 - Google Developer Student Clubs CAU 23-24 Core Member
@@ -12,21 +13,19 @@ Welcome back, this is Karu from Rolling Ress.
 - 37th member in COMP, a Web-app developing club.
 - Intern researcher at Wireline Communication Lab in Woorinet (2023 07~08)
 
-A student who likes development & hacking
-
 ## My Devices
 
-🖥️ Desktop: R5 5600X + RTX 3070\
-💻 ASUS ZenBook Flip 14 (2023) & ThinkPad L13 Yoga (2020)\
-📱 Nothing Phone (1) (2022)\
-📱 Onyx Poke 2 (E-Book Reader)\
-📱 Galaxy Tab S7 FE (2021)\
-⌚ Mi Band 8 (2023)\
-🎧 Nothing Ear (2) (2022)\
+🖥️ Desktop: R5 5600X + RTX 3070  
+💻 ASUS ZenBook Flip 14 (2023) & ThinkPad L13 Yoga (2020)  
+📱 Nothing Phone (1) (2022) & Redmi Note 10 (2021)  
+📱 Onyx Poke 2 (E-Book Reader)  
+📱 Galaxy Tab S7 FE (2021)  
+⌚ CMF Watch Pro (2024)  
+🎧 Nothing Ear (2) (2022)  
 
 ## What can I do
 
-### Programming Languages
+### Programming Languages + Other Languages
 (Sorted by preference)\
 \
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)\
@@ -37,15 +36,16 @@ A student who likes development & hacking
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)\
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)\
 Also designing my own programming language, Rang.
 
-### Markup Languages
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### Others
+### Frameworks & Others
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)\
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### What I'm Studying
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -53,10 +53,10 @@ Also designing my own programming language, Rang.
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)\
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)\
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ## What I use
 ### Tools & Programs
@@ -86,12 +86,11 @@ Also designing my own programming language, Rang.
 
 ## My other websites
 ![Naver](https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF&theme=radical)
-https://blog.naver.com/rollingress
+[link](https://blog.naver.com/rollingress)
 
 ### Statistics
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=karu-rress)\
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karu-rress&count_private=true&show_icons=true)\
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=karu-rress)\
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karu-rress&count_private=true&show_icons=true)
 
 <!--
 **karu-rress/karu-rress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
