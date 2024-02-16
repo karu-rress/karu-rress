@@ -13,7 +13,7 @@ A student who likes development & hacking:
 - Researcher in ISANG, an infosec club at CAU IS (2023/03~2024/02)  
 - 37th member in COMP, a Web-app developing club.
 - Intern researcher at Wireline Communication Lab in Woorinet (2023 07~08)
-- 
+
 <br/><br/>
 ## 소개
 
