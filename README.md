@@ -45,7 +45,7 @@ A student who likes development & hacking:
 
 🖥️ Desktop: R5 5600X + RTX 3070  
 💻 ASUS ZenBook Flip 14 (2023) & ThinkPad L13 Yoga (2020)  
-📱 Nothing Phone (1) (2022) & Redmi Note 10 (2021)  
+📱 Nothing Phone (1) (2022) & Redmi Note 10 (2021) & Galaxy S10 (2019)  
 📱 Onyx Poke 2 (E-Book Reader)  
 📱 Galaxy Tab S7 FE (2021)  
 ⌚ CMF Watch Pro (2024)  
