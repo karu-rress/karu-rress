@@ -13,7 +13,7 @@ A student who likes development & hacking:
 - Researcher in ISANG, an infosec club at CAU IS (2023/03-2024/02)  
 - 37th member in COMP, a Web-app developing club.
 - Intern researcher at Wireline Communication Lab in Woorinet (2023/07-08)  
-- Undergraduate research assistant in CPS Lab of CAU IS (since 2024/03)
+- Undergraduate research assistant in [CPSS Lab](https://github.com/CAU-CPSS) of CAU IS (since 2024/03)
 
 <br/><br/>
 ## 소개
@@ -102,7 +102,7 @@ Also designing my own programming language, Rang.
 
 ### OSes - Currently in use
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
@@ -110,7 +110,7 @@ Also designing my own programming language, Rang.
 
 ### What have been my main OSes
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ## Also I love it
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
