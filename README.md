@@ -6,13 +6,13 @@ Welcome back, this is Karu from Rolling Ress.
 ## I'm...
 
 A student who likes development & hacking:
-- Goyang Global High School 10th alumnus (2020/03-2023/02)
-- Dept. of Industrial Security at Chung-Ang University (2023/03-2024/01)
-- School of Computer Science & Engineering at Chung-Ang Univ. (since 2024/02)  
-- Google Developer Student Clubs CAU 23-24 Core Member
+- [Goyang Global High School](https://ggg.hs.kr:535) 10th alumnus (2020/03-2023/02)
+- [Dept. of Industrial Security](https://security.cau.ac.kr/) at Chung-Ang University (2023/03-2024/01)
+- [School of Computer Science & Engineering](https://cse.cau.ac.kr/) at Chung-Ang Univ. (since 2024/02)  
+- [Google Developer Student Clubs CAU](https://gdsc-cau.com/) 23-24 Core Member
 - Researcher in ISANG, an infosec club at CAU IS (2023/03-2024/02)  
 - 37th member in COMP, a Web-app developing club.
-- Intern researcher at Wireline Communication Lab in Woorinet (2023/07-08)  
+- Intern researcher at Wireline Communication Lab in [Woorinet](https://www.woori-net.com/) (2023/07-08)  
 - Undergraduate research assistant in [CPSS Lab](https://github.com/CAU-CPSS) of CAU IS (since 2024/03)
 
 <br/><br/>
