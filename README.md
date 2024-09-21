@@ -6,9 +6,9 @@ Welcome back, this is Karu from Rolling Ress.
 ## I'm...
 
 A student who likes development & hacking:
-- <img src="Assets/gghs.jpg" width="50" height="50">[Goyang Global High School](https://ggg.hs.kr:535) 10th alumnus (2020/03-2023/02)
-- <img src="Assets/is.png" width="50" height="50">[Dept. of Industrial Security](https://security.cau.ac.kr/) at Chung-Ang University (2023/03-2024/01)
-- <img src="Assets/sw.jpg" width="50" height="50">[School of Computer Science & Engineering](https://cse.cau.ac.kr/) at Chung-Ang Univ. (since 2024/02)  
+- <img src="Assets/gghs.jpg" width="20" height="20"> [Goyang Global High School](https://ggg.hs.kr:535) 10th alumnus (2020/03-2023/02)  
+- <img src="Assets/is.png" width="20" height="20"> [Dept. of Industrial Security](https://security.cau.ac.kr/) at Chung-Ang University (2023/03-2024/01)
+- <img src="Assets/sw.png" width="20" height="20"> [School of Computer Science & Engineering](https://cse.cau.ac.kr/) at Chung-Ang Univ. (since 2024/02)  
 - [Google Developer Student Clubs CAU](https://gdsc-cau.com/) 23-24 Core Member
 - Researcher in ISANG, an infosec club at CAU IS (2023/03-2024/02)  
 - 37th member in COMP, a Web-app developing club.
