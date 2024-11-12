@@ -5,7 +5,7 @@ Welcome back, this is Karu from Rolling Ress.
 
 ## I'm...
 
-A student who likes development & hacking:
+A student interested in how advancements in computer science & engineering transform people’s lives.
 - <img src="Assets/gghs.png" width="20" height="20"> [Goyang Global High School](https://ggg.hs.kr:535) 10th alumnus (2020/03-2023/02)  
 - <img src="Assets/is.png" width="20" height="20"> [Dept. of Industrial Security](https://security.cau.ac.kr/) at Chung-Ang University (2023/03-2024/01)
 - <img src="Assets/sw.png" width="20" height="20"> [School of Computer Science & Engineering](https://cse.cau.ac.kr/) at Chung-Ang Univ. (since 2024/02)  
