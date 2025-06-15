@@ -1,7 +1,7 @@
 # Welcome to Rolling Ress GitHub
 
-Welcome back, this is Karu from Rolling Ress.
-
+Welcome back, this is Karu from Rolling Ress.  
+Please refer to [GitHub.io Webpage](https://karu-rress.github.io/)
 
 ## I'm...
 
@@ -13,7 +13,8 @@ A student interested in how advancements in computer science & engineering trans
 - <img src="Assets/isang.png" width="20" height="20"> Researcher in ISANG, an infosec club at CAU IS (2023/03-2024/02)  
 - <img src="Assets/comp.png" width="20" height="20"> 37th member in COMP, a Web-app developing club.
 - Intern researcher at Wireline Communication Lab in [Woorinet](https://www.woori-net.com/) (2023/07-08)  
-- Undergraduate research assistant in [CPSS Lab](https://github.com/CAU-CPSS) of CAU IS (since 2024/03)
+- Undergraduate research assistant in [CPSS Lab](https://github.com/CAU-CPSS) of CAU IS (2024/03-2025/06)
+- Republic of Korea Navy, Computer (2025/06-2027/03)
 
 <br/><br/>
 ## 소개
