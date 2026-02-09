@@ -8,13 +8,14 @@ Please refer to [GitHub.io Webpage](https://karu-rress.github.io/)
 A student interested in how advancements in computer science & engineering transform people’s lives.
 - <img src="Assets/gghs.png" width="20" height="20"> [Goyang Global High School](https://ggg.hs.kr:535) 10th alumnus (2020/03-2023/02)  
 - <img src="Assets/is.png" width="20" height="20"> [Dept. of Industrial Security](https://security.cau.ac.kr/) at Chung-Ang University (2023/03-2024/01)
-- <img src="Assets/sw.png" width="20" height="20"> [School of Computer Science & Engineering](https://cse.cau.ac.kr/) at Chung-Ang Univ. (since 2024/02)  
+- <img src="Assets/sw.png" width="20" height="20"> [School of Computer Science & Engineering](https://cse.cau.ac.kr/) at Chung-Ang Univ. (2024/02-2026/02)
+- <img src="Assets/skku.png" width="20" height="20"> [Dept. of Computer Science & Engineering](https://cse.skku.edu/) at Sungkyunkwan Univ. (since 2026/03)  
 - <img src="Assets/gdsc.png" width="20" height="20"> [Google Developer Student Clubs CAU](https://gdsc-cau.com/) 23-24 Core Member
 - <img src="Assets/isang.png" width="20" height="20"> Researcher in ISANG, an infosec club at CAU IS (2023/03-2024/02)  
 - <img src="Assets/comp.png" width="20" height="20"> 37th member in COMP, a Web-app developing club.
 - Intern researcher at Wireline Communication Lab in [Woorinet](https://www.woori-net.com/) (2023/07-08)  
 - Undergraduate research assistant in [CPSS Lab](https://github.com/CAU-CPSS) of CAU IS (2024/03-2025/06)
-- Republic of Korea Navy, Computer (2025/06-2027/03)
+- Republic of Korea Navy, Information & Communication (since 2025/06)
 
 <br/><br/>
 ## 소개
@@ -29,6 +30,9 @@ A student interested in how advancements in computer science & engineering trans
 프로그래밍에는 **문제를 직접 정의하고, 답을 찾아갈 수 있는 능력**이 필요합니다. 우리 주변에서 ‘’라는 질문의 답을 찾고, 문제의 본질을 꿰뚫기 위해 인문학적 통찰력과 직관이 필요합니다.
 
 프로그래밍은 사람이 사용하는 프로그램을 만드는 것이기에, 사람에 대한 이해가 필요합니다. 어떤 프로그램이 ‘좋은’ 프로그램이 될 수 있을까요? 개발을 할 때는 사용자를 고려하면서 알고리즘부터 사용자 인터페이스까지 설계하고 제작해야 하므로, 코딩 실력뿐 아니라 로직 설계·디자인·접근성 고려 등 여러 노력이 복합적으로 필요합니다. 여기에서 사람에 관한 관심인 인문학이 필요하며, 사람에 대한 이해를 바탕으로 **인간 친화적인 프로그램**을 만들고자 항상 노력하고 있습니다.
+
+## 스스로 진화하는 소프트웨어
+## Self-evolving Software
 
 ---
 
