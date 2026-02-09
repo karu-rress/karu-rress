@@ -9,7 +9,7 @@ A student interested in how advancements in computer science & engineering trans
 - <img src="Assets/gghs.png" width="20" height="20"> [Goyang Global High School](https://ggg.hs.kr:535) 10th alumnus (2020/03-2023/02)  
 - <img src="Assets/is.png" width="20" height="20"> [Dept. of Industrial Security](https://security.cau.ac.kr/) at Chung-Ang University (2023/03-2024/01)
 - <img src="Assets/sw.png" width="20" height="20"> [School of Computer Science & Engineering](https://cse.cau.ac.kr/) at Chung-Ang Univ. (2024/02-2026/02)
-- <img src="Assets/skku.png" width="20" height="20"> [Dept. of Computer Science & Engineering](https://cse.skku.edu/) at Sungkyunkwan Univ. (since 2026/03)  
+- <img src="Assets/skku.jpg" width="20" height="20"> [Dept. of Computer Science & Engineering](https://cse.skku.edu/) at Sungkyunkwan Univ. (since 2026/03)  
 - <img src="Assets/gdsc.png" width="20" height="20"> [Google Developer Student Clubs CAU](https://gdsc-cau.com/) 23-24 Core Member
 - <img src="Assets/isang.png" width="20" height="20"> Researcher in ISANG, an infosec club at CAU IS (2023/03-2024/02)  
 - <img src="Assets/comp.png" width="20" height="20"> 37th member in COMP, a Web-app developing club.
