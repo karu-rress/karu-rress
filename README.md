@@ -15,7 +15,16 @@ A student interested in how advancements in computer science & engineering trans
 - <img src="Assets/comp.png" width="20" height="20"> 37th member in COMP, a Web-app developing club.
 - Intern researcher at Wireline Communication Lab in [Woorinet](https://www.woori-net.com/) (2023/07-08)  
 - Undergraduate research assistant in [CPSS Lab](https://github.com/CAU-CPSS) of CAU IS (2024/03-2025/06)
-- Republic of Korea Navy, Information & Communication (since 2025/06)
+- Republic of Korea Navy, Information & Communication Petty Officer 3rd Class (2025/06-2026/04)
+
+<br />
+
+Activity Details
+- Grade in CAU: Total 114 credits, GPA 4.27 / 4.50 (97.70 / 100), Class rank 18 / 300
+- GGHS Time Table (GTT), GGHS Todo (GTD) on Microsoft Store (2021-2022)
+- GDSC (GDGoC) New-Year Hackathon (2024/01)
+- PTITxCAU Joint Hackathon 2nd Prize (2024/05)
+- 『Efficient Compile-Time String Formatting in C++ Using Constant Expressions for Improved Runtime Performance』in KCC2024, Jeju (2024/06)
 
 <br/><br/>
 ## 스스로 진화하는 소프트웨어
