@@ -15,7 +15,7 @@ A student interested in how advancements in computer science & engineering trans
 - <img src="Assets/comp.png" width="20" height="20"> 37th member in COMP, a Web-app developing club.
 - Intern researcher at Wireline Communication Lab in [Woorinet](https://www.woori-net.com/) (2023/07-08)  
 - Undergraduate research assistant in [CPSS Lab](https://github.com/CAU-CPSS) of CAU IS (2024/03-2025/06)
-- Republic of Korea Navy, Information & Communication Petty Officer 3rd Class (2025/06-2026/04)
+- Republic of Korea Navy, Intelligence Communication, Petty Officer 3rd Class (2025/06-2026/04)
 
 <br />
 
