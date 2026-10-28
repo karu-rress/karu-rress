@@ -17,9 +17,7 @@ A student interested in how advancements in computer science & engineering trans
 - Undergraduate research assistant in [CPSS Lab](https://github.com/CAU-CPSS) of CAU IS
 - Republic of Korea Navy, Intelligence Communication, Petty Officer 3rd Class
 
-<br />
-
-Activity Details
+**Activity Details**
 - Grade in CAU: Total 114 credits, GPA 4.27 / 4.50 (97.70 / 100), Class rank 18 / 300
 - Grade in SKKU: Total 70 credits, GPA 4.50 / 4.50 (100.00 / 100)
 - GGHS Time Table (GTT), GGHS Todo (GTD) on Microsoft Store (2021-2022)
@@ -27,7 +25,8 @@ Activity Details
 - PTITxCAU Joint Hackathon 2nd Prize (2024/05)
 - 『Efficient Compile-Time String Formatting in C++ Using Constant Expressions for Improved Runtime Performance』in KCC2024, Jeju (2024/06)
 
-<br/><br/>
+<br/>
+
 ## 스스로 진화하는 소프트웨어
 ### Self-evolving Software
 
@@ -55,7 +54,8 @@ Activity Details
 대부분의 보안 문제가 사람에 의해 일어나는 만큼, 사람에 대한 이해와 함께  
 사이버보안 지식을 결합하여 더욱 안전하고 신뢰할 수 있는 디지털 세상을 만들어 나가겠습니다.
 
-<br/><br/>
+<br>
+
 ## My Devices
 
 🖥️ Desktop: R5 5600X + RTX 3070  
@@ -65,7 +65,8 @@ Activity Details
 📱 Galaxy Tab S7 FE (2021)  
 ⌚ CMF Watch Pro (2024)  
 
-<br/><br/>
+<br>
+
 ## What can I do
 
 | Computer Languages | Frameworks & Others | Currently Studying |
@@ -76,10 +77,10 @@ Activity Details
 
 | Tools & Programs | OSes Using | Old OS |
 | --- | --- | --- |
-| [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)<br>[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)![Ae](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)![Ai](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)<br>![Ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)![Pr](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)<br>![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)![QGIS](https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=for-the-badge&logo=qgis&logoColor=white) | [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)<br>[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)<br>[![TailsOS](https://img.shields.io/badge/TailsOS-55317D?logo=tails&logoColor=white)](#)[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#) | [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)<br>[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#) |
+| [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)<br>[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)![Ae](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat&logo=Adobe%20after%20effects&logoColor=393665)![Ai](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white)<br>![Ps](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)![Pr](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)<br>![VMWare](https://img.shields.io/badge/VMware-231f20?style=flat&logo=VMware&logoColor=white)![QGIS](https://img.shields.io/badge/qgis-3.28_firenze-93b023?&style=flat&logo=qgis&logoColor=white) | [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)<br>[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)<br>[![TailsOS](https://img.shields.io/badge/TailsOS-55317D?logo=tails&logoColor=white)](#)[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#) | [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)<br>[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#) |
 
 ## My other websites
-![Naver](https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF&theme=radical)
+![Naver](https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=NAVER&logoColor=FFFFFF&theme=radical)
 [link](https://blog.naver.com/rollingress)
 
 ### Statistics
